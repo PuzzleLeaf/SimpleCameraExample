@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private String imgPath = "";
     Uri uri;
 
+    //http://programmar.tistory.com/4 참고 블로그
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
